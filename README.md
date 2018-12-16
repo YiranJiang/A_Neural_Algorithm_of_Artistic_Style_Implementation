@@ -26,7 +26,8 @@ project/
 To reproduce our result, we could run the notebook file 'main.ipynb'. There are chunks which reproduce different types of result including our output image as well as the training loss history. The animation part comes from my own idea and is also very fancy and worth trying.
 
 
-**Contribution statement**
+**Contribution statement**:
+
 The VGG.py and part of uils.py is implemented by Du Guo(<dg2999@columbia.edu>) and the other part is by me, Yiran Jiang(<yj2462@columbia.edu>).
 
 
