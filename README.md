@@ -4,7 +4,7 @@ A Neural Algorithm of Artistic Style TensorFlow Implementation
 This is the TensorFlow implementation of the paper [A Neural Algorithm of Artistic Style](https://arxiv.org/abs/1508.06576)
 
 
-Here is one of our output image.
+Here is part of our result.
 
 ![image](fig/3.jpg)
 
