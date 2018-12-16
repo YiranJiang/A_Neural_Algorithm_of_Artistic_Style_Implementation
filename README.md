@@ -25,10 +25,16 @@ project/
 ```
 <br>
 
+- pretrained_model/: Currently empty, but need to put the VGG-19 model here for reproduction.
+- data/: Contains Content & Style input image.
+- fig/: Contains figure in readme file.
+- output/: The reproduced output image will be saved within this directory.
 - main.ipynb: A notebook file which we could use to reproduce the result.
-- VGG.py: Contains the part of reading the pretrained VGG parameters into our model.
-- utils.py: Mainly store image processing and visualization functions.
 - train.py: Mainly a class which constructs the neural network we need and the training functions.
+- utils.py: Mainly store image processing and visualization functions.
+- VGG.py: Contains the part of reading the pretrained VGG parameters into our model.
+
+
 <br>
 
 ## Reproduction:
