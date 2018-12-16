@@ -6,7 +6,7 @@ This is the TensorFlow implementation of the paper [A Neural Algorithm of Artist
 
 Here is one of our output image.
 
-![image](figs/2.jpg)
+![image](fig/2.jpg)
 
 
 The file organization is:
