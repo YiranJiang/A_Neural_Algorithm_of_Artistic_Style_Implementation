@@ -46,14 +46,19 @@ To reproduce our result, you could run the notebook file **main.ipynb**. There a
 <br>
 
 
-## Data:
+## Reference & Data:
 
 Most of our training data comes from [***WikiArt***](https://www.wikiart.org)
+
+Also thanks to [here](https://github.com/anishathalye/neural-style), where the preprocessing idea comes from. 
+
+<br>
+<br>
 
 
 ## Contribution statement:
 
-The VGG.py and part of uils.py is implemented by Du Guo(<dg2999@columbia.edu>) and the other part is by me, Yiran Jiang(<yj2462@columbia.edu>). Also thanks to [here](https://github.com/anishathalye/neural-style), where the preprocessing idea comes from. Yu Tong(<yt2594@columbia.edu>) helps us explore by generating output images using different set of parameters.
+The VGG.py and part of uils.py is implemented by Du Guo(<dg2999@columbia.edu>) and the other part is by me, Yiran Jiang(<yj2462@columbia.edu>). Yu Tong(<yt2594@columbia.edu>) helps us explore by generating output images using different set of parameters.
 <br>
 <br>
 
