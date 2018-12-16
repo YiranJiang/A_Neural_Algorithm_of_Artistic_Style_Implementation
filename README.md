@@ -27,6 +27,8 @@ project/
 
 ## Reproduction:
 
+Firstly, please download the pretrained VGG-19 model [here](http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat) and put it in the under **pretrained_model/**.
+
 To reproduce our result, you could run the notebook file **main.ipynb**. There are chunks which reproduce different types of result including the **running time**, **output image** as well as **training loss history**. The animation part comes from my own idea and is also very fancy and worth trying.
 
 <br>
