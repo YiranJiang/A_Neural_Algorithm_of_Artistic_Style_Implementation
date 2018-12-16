@@ -32,7 +32,7 @@ project/
 - main.ipynb: A notebook file which we could use to reproduce the result.
 - train.py: Mainly a class which constructs the neural network we need and the training functions.
 - utils.py: Mainly stores image processing and visualization functions.
-- VGG.py: Contains the part of reading the pretrained VGG parameters into our model.
+- VGG.py: Contains the part of reading the pretrained VGG-19 model parameters into our style learning model.
 
 
 <br>
