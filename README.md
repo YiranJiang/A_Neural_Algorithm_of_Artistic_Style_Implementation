@@ -25,7 +25,7 @@ project/
 ```
 <br>
 
-To reproduce our result, you could run the notebook file **main.ipynb**. There are chunks which reproduce different types of result including our output image as well as the training loss history. The animation part comes from my own idea and is also very fancy and worth trying.
+To reproduce our result, you could run the notebook file **main.ipynb**. There are chunks which reproduce different types of result including the **running time**, **output image** as well as **training loss history**. The animation part comes from my own idea and is also very fancy and worth trying.
 
 <br>
 
