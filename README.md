@@ -15,7 +15,7 @@ The file organization is:
 project/
 ├── pretrained_model/
 ├── data/
-├── figs/
+├── fig/
 ├── output/
 ├── main.ipynb
 ├── train.py
