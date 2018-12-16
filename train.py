@@ -75,7 +75,7 @@ class Neural_Style(object):
         elif init == 'Content':
             initial = input_content
         elif init == 'Style':
-            initial = input_Style
+            initial = input_style
 
         initial = np.array([preprocess(initial,self.mean_pixel)])
         blank_image = tf.Variable(initial)
