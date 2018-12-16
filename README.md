@@ -31,7 +31,7 @@ project/
 - output/: The reproduced output image will be saved within this directory.
 - main.ipynb: A notebook file which we could use to reproduce the result.
 - train.py: Mainly a class which constructs the neural network we need and the training functions.
-- utils.py: Mainly store image processing and visualization functions.
+- utils.py: Mainly stores image processing and visualization functions.
 - VGG.py: Contains the part of reading the pretrained VGG parameters into our model.
 
 
