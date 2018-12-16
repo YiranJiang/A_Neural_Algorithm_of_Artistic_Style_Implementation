@@ -25,6 +25,12 @@ project/
 ```
 <br>
 
+- main.ipynb: A notebook file which we could use to reproduce the result.
+- VGG.py: Contains the part of reading the pretrained VGG parameters into our model.
+- utils.py: Mainly store image processing and visualization functions.
+- train.py: Mainly a class which constructs the neural network we need and the training functions.
+<br>
+
 ## Reproduction:
 
 Firstly, please download the pretrained VGG-19 model [here](http://www.vlfeat.org/matconvnet/models/beta16/imagenet-vgg-verydeep-19.mat) and put it in the under **pretrained_model/**.
