@@ -52,6 +52,8 @@ Most of our training data comes from [***WikiArt***](https://www.wikiart.org)
 
 Also thanks to [here](https://github.com/anishathalye/neural-style), where the preprocessing idea comes from. 
 
+In our exploring stage(not the implementation of the main paper), as mentioned in the paper, we tried Super Resolution techniques. The training code of this part comes from [here](https://github.com/TZstatsADS/Fall2018-Proj3-Sec1-grp1). 
+
 <br>
 <br>
 
