@@ -63,6 +63,9 @@ In our exploration stage(not the implementation of the main paper), as mentioned
 The VGG.py and part of uils.py is implemented by Du Guo(<dg2999@columbia.edu>) and the other part is by me, Yiran Jiang(<yj2462@columbia.edu>). Yu Tong(<yt2594@columbia.edu>) helps us explore by generating output images using different set of parameters.
 <br>
 <br>
+<br>
+
+<br>
 
 12/15/2018
 
