@@ -48,11 +48,11 @@ To reproduce our result, you could run the notebook file **main.ipynb**. There a
 
 ## Reference & Data:
 
-Most of our training data comes from [***WikiArt***](https://www.wikiart.org)
+Most of our training data comes from [***WikiArt***](https://www.wikiart.org).
 
 Also thanks to [here](https://github.com/anishathalye/neural-style), where the preprocessing idea comes from. 
 
-In our exploration stage(not the implementation of the main paper), as mentioned in the paper, we tried Super Resolution techniques. The training code of this part comes from [here](https://github.com/TZstatsADS/Fall2018-Proj3-Sec1-grp1). 
+In our exploration stage(not the implementation of the main paper), as mentioned in the paper, we tried Super Resolution techniques. The training data contains 1000 Van Gogh's post impressionism work comes from [***WikiArt***](https://www.wikiart.org). The training code of this part comes from [here](https://github.com/TZstatsADS/Fall2018-Proj3-Sec1-grp1). 
 
 <br>
 <br>
